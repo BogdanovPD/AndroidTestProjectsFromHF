@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestProjectOne</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="text_button">New Button</string>
+    <string-array name="colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>>
+</resources>
